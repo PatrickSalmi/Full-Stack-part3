@@ -1,12 +1,11 @@
-# fly.toml file generated for polished-sun-826 on 2023-01-06T15:40:52+02:00
+# fly.toml file generated for rough-butterfly-7660 on 2023-01-06T18:01:57+02:00
 
-app = "polished-sun-826"
+app = "rough-butterfly-7660"
 kill_signal = "SIGINT"
 kill_timeout = 5
 processes = []
 
 [env]
-  PORT = "8080"
 
 [experimental]
   allowed_public_ports = []
